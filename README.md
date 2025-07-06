@@ -1,6 +1,7 @@
 # Customer-Transactions-And-Fraud-Risk-Intelligence-Dashboards--A-Unified-Business-Monitoring-System.
 
 Introduction
+
 Banking and transactional ecosystems are more complex and vulnerable than ever in today's digital world. As financial institutions strive to improve service personalization and fraud prevention, business intelligence (BI) plays a central role in making sense of massive volumes of data.
 This project combines two dashboards built in Power BI to reveal the dual pulse of financial behavior:
 Transaction Trends and Customer Behavior: This view focuses on when, how, and where customers transact. It dives into transaction frequency, value distribution by occupation, customer segmentation by age, and usage patterns across digital and physical channels.
@@ -11,8 +12,6 @@ These dashboards create a composite business intelligence layer that allows stak
 ![Transaction Dashboard](https://github.com/user-attachments/assets/2dacd29a-f38a-4193-96eb-09bd87ce767d)
 
 ![Fraud Risk Dashboard](https://github.com/user-attachments/assets/a236149c-ed85-4013-bf84-02a099530850)
-
-
 
 Objective of the Project
 
